@@ -19,15 +19,15 @@ I am building a research-oriented GitHub portfolio through a series of statistic
 
 ## Research Roadmap
 
-- Robust Regression Comparison
-- Sparse Regression
-- High-dimensional Classification
-- Robust Covariance Estimation
-- Portfolio Optimization
-- Risk Modeling
-- Factor Investing
-- Volatility Forecasting
-- Market Regime Detection
+- 🔬 Robust Regression Comparison
+- 📅 Sparse Regression
+- 📅 High-dimensional Classification
+- 📅 Robust Covariance Estimation
+- 📅 Portfolio Optimization
+- 📅 Risk Modeling
+- 📅 Factor Investing
+- 📅 Volatility Forecasting
+- 📅 Market Regime Detection
 
 ## Programming
 
