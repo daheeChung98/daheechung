@@ -1,8 +1,11 @@
 # Hi, I'm Dahee Chung
 
 PhD applicant in Statistics
+
 M.S. in Applied Mathematics @ Illinois Insitute of Technology
+
 M.S. in Data Science @ Ajou University (Republic of Korea)
+
 B.S. in Mathematics @ Ajou University (Republic of Korea)
 
 ## Research Interests
